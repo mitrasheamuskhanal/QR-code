@@ -20,7 +20,8 @@ body{
     background: white;
     border-radius: 10%;
     display: flex;
-    flex-direction: column;
+   flex-direction: column; 
+   padding: 10px;
     
     
    
@@ -28,8 +29,6 @@ body{
 
 .box img{
     max-width: 100%;
-    padding: 5px;
-    margin: 10px;
     border-radius: 10%;
     
     
